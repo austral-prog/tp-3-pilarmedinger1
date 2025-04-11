@@ -1,6 +1,4 @@
 def slice_advanced():
-    entrada = input()
-    resultado = entrada[4::2]  
-    print(resultado)
+    entrada = input() 
+    print([4: :2])
 
-slice_advanced()
